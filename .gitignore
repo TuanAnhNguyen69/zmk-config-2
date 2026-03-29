@@ -1,0 +1,18 @@
+# ZMK/West workspace artifacts
+.west/
+zephyr/
+zmk/
+modules/
+nice-view-gem/
+
+# Local build outputs
+build/
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
