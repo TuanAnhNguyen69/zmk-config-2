@@ -6,5 +6,8 @@ config ZMK_SPLIT
 config ZMK_BLE_PASSKEY_ENTRY
     default n
 
+config ZMK_BLE_CLEAR_BONDS_ON_START
+    default y
+
 endif
 
